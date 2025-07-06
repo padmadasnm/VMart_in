@@ -1,0 +1,36 @@
+.NavBarMain {
+  background-color: #022e47;
+}
+.Navfont {
+  color: white;
+  text-decoration: none;
+}
+
+.Navfont:hover {
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+}
+
+.navfooter {
+  color: white;
+}
+
+.CntBtn {
+  height: 20px;
+  width: 20px;
+  font-weight: bold;
+  background-color: whit;
+  border: 1px solid gray;
+}
+
+.navimg {
+  border: 1px solid #022e47;
+  border-radius: 5px;
+  height: 30px;
+}
+
+.navimg:hover {
+  border-color: white;
+  cursor: pointer;
+}

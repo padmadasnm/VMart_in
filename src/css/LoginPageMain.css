@@ -1,0 +1,15 @@
+.LoginPageMain {
+  background-color: #022e47;
+}
+.Loginfont {
+  color: white;
+}
+
+.RegPageMain {
+  background-image: url("https://cdn.pixabay.com/photo/2023/12/29/10/39/woman-8475957_1280.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+}
